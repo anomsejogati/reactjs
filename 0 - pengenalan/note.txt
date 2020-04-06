@@ -1,0 +1,18 @@
+ReactJs
+A Javascript library for building user interfaces
+sebuah library Javascript untuk membuat tampilan UI
+
+- React bekerja base on component 
+    dimana setiap component yang dibuat dalam bentuk function 
+    kemudian dirender menggunakan DOM
+- JSX extended javascript = suatu pengembangan javascript dimana kode HTML bisa di ikut sertakan dalam javascript.
+    const element = <h1>Halo, Dunia!</h1>;
+- Kode HTML harus Nested. 
+    Nested di sini maksudnya kode HTML harus mempunyai awalan dan akhiran. 
+    Tidak boleh ada miss agar compiler tidak error.
+- CLI Command Line Interface.
+    CLI adalah program yang memungkinkan pengguna mengetik perintah teks yang memerintahkan komputer 
+    untuk melakukan tugas tertentu.
+
+https://reactjs.org/
+https://id.reactjs.org/docs/getting-started.html

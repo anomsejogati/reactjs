@@ -1,0 +1,24 @@
+ReactJs
+A Javascript library for building user interfaces
+sebuah library Javascript untuk membuat tampilan UI
+
+SESI 1
+- Install React JS
+    sudo npm install -g create-react-app
+- Create Project
+    create-react-app nama_project
+
+
+SESI 2
+- StateLess Component & StateFull Component
+    StateLess Component = functional component
+    StateFull Component = class component
+
+SESI 3
+- Memisahkan StateLess Component & StateFull Component di folder terpisah
+    StateLess Component => component
+    StateFull Component => container
+
+
+https://reactjs.org/
+https://id.reactjs.org/docs/getting-started.html
