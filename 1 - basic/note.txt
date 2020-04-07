@@ -19,6 +19,10 @@ SESI 3
     StateLess Component => component
     StateFull Component => container
 
+SESI 4
+- Dynamic Component menggunakan props
+- Propos default
+
 
 https://reactjs.org/
 https://id.reactjs.org/docs/getting-started.html
